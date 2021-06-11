@@ -1,6 +1,7 @@
 writeCode
 
 #### Assignment
+added
 
 Deploy a node or react application on Digitalocean/AWS cloud and share the public IP where people on internet can view/use the application.
 
